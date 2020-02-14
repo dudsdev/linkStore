@@ -1,0 +1,37 @@
+@import url("letters.css");
+@import url("buttons.css");
+@import url("imgs.css");
+
+div.jumbotron{
+    border-radius: 10px;
+    background-color: rgba(1, 26, 86, 0.8);
+    margin-top: 20px;
+    padding-top: 20px;
+
+}
+
+div.jumbotron:hover{
+
+  -moz-box-shadow: 6px 9px 41px #000000;
+  -webkit-box-shadow: 6px 9px 41px #000000;
+  box-shadow: 6px 9px 41px #000000;
+}
+
+hr.my-5{
+  margin-left: -20px;
+  margin-right: -20px;
+  border-width: medium;
+  border-color: black;
+
+}
+
+#formControll {
+    border-radius: 15px solid;
+    background-image: url(../img/background-index.jpg);
+    width: 950px;
+    height: 330px;
+    margin-left: 0px;
+    padding-right: 24px;
+    padding-left: 6px;
+    padding-top: 6px;
+}

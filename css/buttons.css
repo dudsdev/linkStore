@@ -1,0 +1,43 @@
+.btn-success{
+    width: 200px;
+    height: 41px;
+    margin-top:109px;
+    margin-left: 276px;
+
+}
+
+.btn-dark{
+  margin-top: 70px;
+  margin-left:400px;
+  width: 200px;
+  height: 40px;
+  padding-top: 10px;
+  padding-top: 10px;
+
+}
+
+.btn-dark:hover{
+  opacity: 0.9;
+
+  width: 500px;
+    background-color: #091837;
+}
+
+a.btn-info{
+  margin-left: -32px;
+  margin-top: 90px;
+  margin-bottom: -80px;
+}
+a.btn-info:hover{
+  opacity: 0.7;
+  border-color: black;
+}
+
+.btn-danger{
+  margin-top: -65px;
+}
+
+.btn-warning{
+  margin-top: -65px;
+  margin-left: -5px;
+}

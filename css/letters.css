@@ -1,0 +1,48 @@
+*{
+
+  font-family: 'Archivo Narrow', sans-serif;*/
+  /*font-family: 'Sedgwick Ave Display', cursive;*/
+  /*font-family: 'Shadows Into Light Two', cursive;*/
+  /*font-family: 'Archivo Narrow', sans-serif;*/
+  color:black;
+}
+
+
+h1{
+    margin-left: 24px;
+}
+
+h1:hover{
+
+  text-shadow:-1px 0px 11px #000000;
+  color: orange;
+
+
+}
+
+p.lead {
+  font-size: 25px;
+  padding-top: 40px;
+}
+
+p.lead:hover {
+  color:orange;
+  font-size: 30px;
+  padding-top: 40px;
+}
+
+p:hover{
+  color:orange;
+  font-size: 20px;
+}
+
+label.mainLabel{
+  font-size: 41px;
+  color:brown;
+}
+label.mainLabel:hover{
+  text-shadow: -10px;
+  opacity: 0.8;
+  font-size: 41px;
+  color:brown;
+}
